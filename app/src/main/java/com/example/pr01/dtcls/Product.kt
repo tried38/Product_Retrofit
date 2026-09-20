@@ -1,4 +1,4 @@
-package com.example.pr01.data
+package com.example.pr01.dtcls
 
 data class Product(
     val id: Int,

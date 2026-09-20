@@ -21,4 +21,5 @@ object RetrofitClient {
         .build()
 
     val productsApi: ProductInteface = retrofit.create(ProductInteface::class.java)
+    val recipeApi: RecipesInterface = retrofit.create(RecipesInterface::class.java)
 }

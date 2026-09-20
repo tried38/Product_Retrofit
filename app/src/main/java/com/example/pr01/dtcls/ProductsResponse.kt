@@ -1,4 +1,4 @@
-package com.example.pr01.data
+package com.example.pr01.dtcls
 
 data class ProductsResponse(
     val products: List<Product>,
