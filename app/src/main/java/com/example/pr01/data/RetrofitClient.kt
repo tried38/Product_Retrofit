@@ -1,5 +1,7 @@
-package com.example.pr01.services
+package com.example.pr01.data
 
+import com.example.pr01.data.service.ProductInteface
+import com.example.pr01.data.service.RecipesInterface
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

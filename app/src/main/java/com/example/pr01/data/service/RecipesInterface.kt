@@ -1,6 +1,6 @@
-package com.example.pr01.services
+package com.example.pr01.data.service
 
-import com.example.pr01.dtcls.Recipe
+import com.example.pr01.data.model.Recipe
 import retrofit2.http.Body
 import retrofit2.http.POST
 
